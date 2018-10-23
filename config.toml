@@ -294,7 +294,7 @@ enableGitInfo = false
   name = "Internships"
   url = "#internship"
   weight = 3
-
+  
 #[[menu.main]]
 #  name = "Publications"
 #  url = "#publications_selected"
