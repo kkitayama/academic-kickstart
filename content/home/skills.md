@@ -6,7 +6,7 @@ date = 2017-09-20T00:00:00
 # Activate this widget? true/false
 active = true
 
-title = "Skills"
+title = "Skills/Hobbies"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -25,12 +25,18 @@ weight = 7
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "30%" 
+  description = ""
 
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
   name = "Photography"
-  description = "10%"
+  description = ""
+
+[[feature]]
+  icon = "dumbbell"
+  icon_pack = "fas"
+  name = "Workout"
+  description = ""
 
 +++
