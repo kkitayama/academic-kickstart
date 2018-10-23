@@ -16,15 +16,13 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "東北大学工学部電気情報物理工学科 卒業予定"
+  course = "2019 東北大学工学部電気情報物理工学科 卒業予定"
   institution = ""
-  year = 2019
+  year =
 
 [[education.courses]]
-  course = "東北大学工学部電気情報物理工学科 入学"
+  course = "2016 東北大学工学部電気情報物理工学科 入学"
   institution = ""
-  year = 2016
+  year =
 
 +++
-
-# Comunication between human and computer
