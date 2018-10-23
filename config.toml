@@ -287,7 +287,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Skills"
-  url = "#skills"
+  url = "#featurette"
   weight = 2
 
 [[menu.main]]

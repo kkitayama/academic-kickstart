@@ -10,8 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "自然言語処理(Natural Language Processing)",
-    "画像処理(Computer Vision)"
+    "Natural Language Processing",
+    "Computer Vision"
   ]
 
 # List your qualifications (such as academic degrees).
