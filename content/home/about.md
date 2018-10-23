@@ -10,19 +10,19 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Natural Language Processing",
-    "Computer Vision"
+    "自然言語処理(Natural Language Processing)",
+    "画像処理(Computer Vision)"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "2019 東北大学工学部電気情報物理工学科 卒業予定"
-  institution = ""
-  year =
+  course = "大学卒業予定"
+  institution = "東北大学工学部電気情報物理工学科"
+  year = 2019
 
 [[education.courses]]
-  course = "2016 東北大学工学部電気情報物理工学科 入学"
-  institution = ""
-  year =
+  course = "大学入学"
+  institution = "東北大学工学部電気情報物理工学科"
+  year = 2016
 
 +++
