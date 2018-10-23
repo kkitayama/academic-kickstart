@@ -25,5 +25,6 @@ weight = 5
 
 # Biography
 
-I am an undergraduate student at Tohoku University.
-I am a member of Communication Science Laboratory (Inui-Suzuki Lab), and studing about Natural Language Processing.
+I am an undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/).
+
+I am a member of Communication Science Laboratory([Inui-Suzuki Lab](http://www.cl.ecei.tohoku.ac.jp/)), and studing about Natural Language Processing.
