@@ -247,7 +247,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "kitayama@ecei.tohoku.ac.jp"
+    link = "//kitayama@ecei.tohoku.ac.jp"
 
 #  [[params.social]]
 #    icon = "twitter"
