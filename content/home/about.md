@@ -17,13 +17,13 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "大学卒業予定"
-  institution = "東北大学工学部電気情報物理工学科"
+  course = "Bachelor of Engineering(expected)"
+  institution = "Tohoku University"
   year = 2019
 
-[[education.courses]]
-  course = "大学入学"
-  institution = "東北大学工学部電気情報物理工学科"
-  year = 2016
-
 +++
+
+# Biography
+
+I am an undergraduate student at Tohoku University.
+I am a member of Communication Science Laboratory (Inui-Suzuki Lab), and studing about Natural Language Processing.
