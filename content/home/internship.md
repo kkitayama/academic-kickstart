@@ -15,5 +15,5 @@ weight = 61
 
 +++
 
-- ジョイズ株式会社 2018-06 ~
-- 株式会社フィックスターズ 2018-02 ~ 2018-03
+- [Joyz, Inc.](https://www.joyz.co.jp/) Jun. 2018 ~
+- [Fixstars Corporation](https://www.fixstars.com/) Feb. 2018 ~ Mar. 2018
