@@ -1,5 +1,5 @@
 +++
-# Custom widget.
+# Internship widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
@@ -15,6 +15,5 @@ weight = 61
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
-
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+- ジョイズ株式会社 2018-06 ~
+- 株式会社フィックスターズ 2018-02 ~ 2018-03
