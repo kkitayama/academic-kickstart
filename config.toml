@@ -29,7 +29,7 @@ disqusShortname = ""
 googleAnalytics = ""
 
 # Default language to use (if you setup multilingual support)
-defaultContentLanguage = "ja"
+defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 
@@ -66,7 +66,7 @@ enableGitInfo = false
   email = "kitayama@ecei.tohoku.ac.jp"
   address = ""
   office_hours = ""
-  phone = ""
+  phone = "+81-22-795-7091"
   skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
