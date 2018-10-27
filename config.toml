@@ -375,10 +375,9 @@ enableGitInfo = false
 
 [languages.ja]
   languageCode = "ja"
-  [languages.ja.params]
-    name = "北山晃太郎"
-    role = "学部3年"
+  title = "北山晃太郎"
 
+  [languages.zh.params]
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
 #  languageCode = "zh-Hans"
