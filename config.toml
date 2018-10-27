@@ -352,6 +352,10 @@ enableGitInfo = false
 [languages.en]
   languageCode = "en-us"
 
+
+[languages.ja]
+  languageCode = "ja"
+
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
 #  languageCode = "zh-Hans"
