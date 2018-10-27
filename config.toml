@@ -280,7 +280,7 @@ enableGitInfo = false
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
-[[menu.main]]
+[[Languages.en.menu.main]]
   name = "Home"
   url = "#about"
   weight = 1
@@ -290,7 +290,7 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[menu.main]]
+[[Languages.en.menu.main]]
   name = "Skills/Hobbies"
   url = "#skills"
   weight = 2
@@ -300,7 +300,7 @@ enableGitInfo = false
   url = "#skills"
   weight = 2
 
-[[menu.main]]
+[[Languages.en.menu.main]]
   name = "Internships"
   url = "#internship"
   weight = 3
