@@ -29,7 +29,7 @@ weight = 5
 [[education.courses]]
   course = "高校卒業"
   institution = "青森県立弘前高等学校"
-  year = 2015
+  year = "2015年"
 
 +++
 
