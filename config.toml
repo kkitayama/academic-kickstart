@@ -285,7 +285,7 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[[Lamguages.ja.menu.main]]
+[[Languages.ja.menu.main]]
   name = "ホーム"
   url = "#about"
   weight = 1
