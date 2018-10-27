@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-# title = "Kotaro Kitayama (北山 晃太郎)"
+title = "Kotaro Kitayama (北山 晃太郎)"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -371,7 +371,7 @@ enableGitInfo = false
 # Configure the English version of the website.
 [languages.en]
   languageCode = "en-us"
-  title = "Kotaro Kitayama (北山 晃太郎)"
+
 
 [languages.ja]
   languageCode = "ja"
