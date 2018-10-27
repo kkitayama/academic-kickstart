@@ -17,8 +17,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bachelor of Engineering(expected)"
-  institution = "Tohoku University"
+  course = "東北大学工学部電気情報物理工学科卒業予定"
   year = 2019
 
 +++
