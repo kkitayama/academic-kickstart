@@ -525,58 +525,6 @@ enableGitInfo = false
       'Book section'  # 6
     ]
 
-    # Configuration of talk pages.
-    [params.talks]
-      # Show talk time?
-      time = true
-
-    # Configuration of publication pages.
-    [params.publications]
-      # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
-      #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-      date_format = "January, 2006"
-
-    # Configuration of project pages.
-    [params.projects]
-      # List publications and talks related to the project?
-      list_children = true
-
-      # Publication list format.
-      #   0 = Simple
-      #   1 = Detailed
-      #   2 = APA
-      #   3 = MLA
-      #   4 = Stream
-      publication_format = 4
-
-      # Talk list format.
-      #   0 = Simple
-      #   1 = Detailed
-      #   2 = Stream
-      talk_format = 2
-
-    # Social/Academic Networking
-    #
-    # Icon pack "fab" includes the following social network icons:
-    #
-    #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
-    #   youtube, instagram, soundcloud
-    #
-    #   For email icon, use "fas" icon pack, "envelope" icon, and
-    #   "mailto:your@email.com" as the link.
-    #
-    #   Full list: https://fontawesome.com/icons
-    #
-    # Icon pack "ai" includes the following academic icons:
-    #
-    #   cv, google-scholar, arxiv, orcid, researchgate, mendeley
-    #
-    #   Full list: https://jpswalsh.github.io/academicons/
-
-    [[params.social]]
-      icon = "envelope"
-      icon_pack = "fas"
-      link = "mailto:kitayama@ecei.tohoku.ac.jp"
 
 
 
