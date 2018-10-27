@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "大学卒業予定"
   institution = "東北大学工学部電気情報物理工学科"
-  year = 2019年3月
+  year = 2019年
 
 [[education.courses]]
   course = "大学入学"
   institution = "東北大学工学部電気情報物理工学科"
-  year = 2016年4月
+  year = 2016年
 
 [[education.courses]]
   course = "高校卒業
   institution = "青森県立弘前高等学校"
-  year = 2015年3月
+  year = 2015
 
 +++
 
