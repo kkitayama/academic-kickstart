@@ -19,12 +19,12 @@ weight = 5
 [[education.courses]]
   course = "大学卒業予定"
   institution = "東北大学工学部電気情報物理工学科"
-  year = 2019年
+  year = 2019
 
 [[education.courses]]
   course = "大学入学"
   institution = "東北大学工学部電気情報物理工学科"
-  year = 2016年
+  year = 2016
 
 [[education.courses]]
   course = "高校卒業
