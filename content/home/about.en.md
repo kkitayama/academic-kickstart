@@ -25,6 +25,5 @@ weight = 5
 
 # Biography
 
-I am an undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/).
-
-I am a member of Communication Science Laboratory([Inui-Suzuki Lab](http://www.cl.ecei.tohoku.ac.jp/)), and studing about Natural Language Processing.
+Kotaro Kitayama is an undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/).  
+He is a member of Communication Science Laboratory([Inui-Suzuki Lab](http://www.cl.ecei.tohoku.ac.jp/)), and studing about Natural Language Processing.
