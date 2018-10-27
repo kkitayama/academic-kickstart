@@ -306,7 +306,7 @@ enableGitInfo = false
   weight = 3
 
 [[Languages.ja.menu.main]]
-  name = "インターンシップ"
+  name = "インターン"
   url = "#internship"
   weight = 3
 
