@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Kotaro Kitayama (北山 晃太郎)"
+title = "Kotaro Kitayama"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -377,7 +377,13 @@ enableGitInfo = false
   languageCode = "ja"
 
 [Languages.ja]
-  name = "北山晃太郎"
+  title = "北山 晃太郎"
+  name = "北山 晃太郎"
+  organizations = [ {name = """
+                     東北大学工学部
+                     電気情報物理工学科""", url = "http://www.ecei.tohoku.ac.jp/eipe/"},
+                    {name = "Communication Science Laboratory", url = "http://www.cl.ecei.tohoku.ac.jp/" } ]
+  phone = "022-795-7091"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
