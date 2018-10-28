@@ -30,13 +30,13 @@ weight = 7
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Photography"
+  name = "写真"
   description = ""
 
 [[feature]]
   icon = "dumbbell"
   icon_pack = "fas"
-  name = "Workout"
+  name = "筋トレ"
   description = ""
 
 +++
