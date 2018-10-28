@@ -376,6 +376,8 @@ enableGitInfo = false
 [languages.ja]
   languageCode = "ja"
 
+[Languages.ja]
+  name = "北山晃太郎"
 
 # Uncomment the lines below to configure your website in a second language.
 #[languages.zh]
