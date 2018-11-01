@@ -250,10 +250,10 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:kitayama@ecei.tohoku.ac.jp"
 
-#  [[params.social]]
-#    icon = "twitter"
-#    icon_pack = "fab"
-#    link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "//twitter.com/geneihisoka4"
 
 #  [[params.social]]
 #    icon = "google-scholar"
