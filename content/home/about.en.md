@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Natural Language Processing",
     "Computer Vision",
-    "Information Extraction"
+    "Embedded Representation"
   ]
 
 # List your qualifications (such as academic degrees).

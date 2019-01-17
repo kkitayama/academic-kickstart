@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "自然言語処理",
     "画像処理",
-    "情報抽出"
+    "埋め込み表現"
   ]
 
 # List your qualifications (such as academic degrees).
