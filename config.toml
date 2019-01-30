@@ -290,12 +290,12 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-[Languages.en.menu.main]]
+[[Languages.en.menu.main]]
   name = "Publications"
   url = "#publications"
   weight = 2
 
-[Languages.ja.menu.main]]
+[[Languages.ja.menu.main]]
   name = "発表歴"
   url = "#publications"
   weight = 2
