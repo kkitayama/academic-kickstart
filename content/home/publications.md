@@ -36,3 +36,6 @@ publication_type = "-1"
 # Exclude publications that are shown in the Selected Publications widget?
 exclude_selected = false
 +++
+
+<u>北山晃太郎</u>, 清野舜, 鈴木潤, 乾健太郎. **画像/言語同時埋め込みベクトル空間の構築に向けた 埋め込み粒度の比較検討**.  
+言語処理学会第25回年次大会 (NLP2019), 名古屋, March 2019.
