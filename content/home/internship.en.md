@@ -15,5 +15,6 @@ weight = 61
 
 +++
 
+- [Megagon Labs Japan](http://www.megagon.ai/) Feb. 2019 ~ Mar. 2019
 - [Joyz, Inc.](https://www.joyz.co.jp/) Jun. 2018 ~
 - [Fixstars Corporation](https://www.fixstars.com/) Feb. 2018 ~ Mar. 2018
