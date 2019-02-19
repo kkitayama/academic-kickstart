@@ -26,4 +26,4 @@ weight = 5
 # Biography
 
 Kotaro Kitayama is an undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/).  
-He is a member of Communication Science Laboratory([Inui-Suzuki Lab](http://www.cl.ecei.tohoku.ac.jp/)), and studing about Natural Language Processing.
+He is a member of Natural Language Processing Laboratory([Inui-Suzuki Lab](https://www.nlp.ecei.tohoku.ac.jp/)).
