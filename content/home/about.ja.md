@@ -17,7 +17,12 @@ weight = 10
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "2019年3月 大学卒業予定"
+  course = "2019年4月 大学院入学"
+  institution = "東北大学大学院情報科学研究科システム情報科学専攻"
+  year = ""
+
+[[education.courses]]
+  course = "2019年3月 大学卒業 (1年早期卒業)"
   institution = "東北大学工学部電気情報物理工学科"
   year = ""
 
@@ -35,5 +40,5 @@ weight = 10
 
 # プロフィール
 
-[東北大学工学部電気情報物理工学科](http://www.ecei.tohoku.ac.jp/eipe/)の学部3年生です．  
+[東北大学大学院情報科学研究科](https://www.is.tohoku.ac.jp/)の博士前期課程1年生です．  
 [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)にて自然言語処理の研究をしています．

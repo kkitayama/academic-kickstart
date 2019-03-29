@@ -17,7 +17,7 @@ weight = 10
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "Bachelor of Engineering(expected)"
+  course = "Bachelor of Engineering"
   institution = "Tohoku University"
   year = 2019
 
@@ -25,5 +25,5 @@ weight = 10
 
 # Biography
 
-Kotaro Kitayama is an undergraduate student at [Tohoku University](https://www.tohoku.ac.jp/).  
+Kotaro Kitayama is a Master's student at [Tohoku University](https://www.tohoku.ac.jp/).  
 He is a member of Natural Language Processing Laboratory([Inui-Suzuki Lab](https://www.nlp.ecei.tohoku.ac.jp/)).
