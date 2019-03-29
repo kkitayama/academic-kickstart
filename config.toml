@@ -405,7 +405,7 @@ enableGitInfo = false
   title = "北山 晃太郎"
   name = "北山 晃太郎"
   role = "博士前期課程1年"
-  organizations = [ {name = "東北大学 大学院情報科学研究科", url = "https://www.is.tohoku.ac.jp/"},
+  organizations = [ {name = "東北大学 大学院情報科学研究科\nシステム情報科学専攻", url = "https://www.is.tohoku.ac.jp/"},
                     {name = "乾・鈴木研究室", url = "https://www.nlp.ecei.tohoku.ac.jp/" } ]
   phone = "022-795-7091"
 
