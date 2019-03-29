@@ -9,7 +9,7 @@ title = "発表歴"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 20
 
 # Number of publications to list.
 count = 10
