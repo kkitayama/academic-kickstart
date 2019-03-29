@@ -15,4 +15,4 @@ weight = 30
 
 +++
 
-- Mar. 2019<pre>  </pre>言語処理学会第25回年次大会 (NLP2019) Outstanding Poster Award
+- Mar. 2019 言語処理学会第25回年次大会 (NLP2019) Outstanding Poster Award
