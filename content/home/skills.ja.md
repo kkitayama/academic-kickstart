@@ -10,7 +10,7 @@ title = "スキル・趣味"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 20
+weight = 50
 
 # Showcase personal skills or business features.
 #

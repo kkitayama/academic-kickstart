@@ -283,52 +283,57 @@ enableGitInfo = false
 [[Languages.en.menu.main]]
   name = "Home"
   url = "#about"
-  weight = 1
+  weight = 10
 
 [[Languages.ja.menu.main]]
   name = "ホーム"
   url = "#about"
-  weight = 1
-
-[[Languages.en.menu.main]]
-  name = "Awards"
-  url = "#awards"
   weight = 10
 
-[[Languages.ja.menu.main]]
-  name = "受賞歴"
-  url = "#awards"
-  weight = 10
 
 [[Languages.en.menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 20
 
 [[Languages.ja.menu.main]]
   name = "発表歴"
   url = "#publications"
-  weight = 2
+  weight = 20
+
 
 [[Languages.en.menu.main]]
-  name = "Skills/Hobbies"
-  url = "#skills"
-  weight = 3
+  name = "Awards"
+  url = "#awards"
+  weight = 30
 
 [[Languages.ja.menu.main]]
-  name = "スキル・趣味"
-  url = "#skills"
-  weight = 3
+  name = "受賞歴"
+  url = "#awards"
+  weight = 30
+
 
 [[Languages.en.menu.main]]
   name = "Internships"
   url = "#internship"
-  weight = 4
+  weight = 40
 
 [[Languages.ja.menu.main]]
   name = "インターン"
   url = "#internship"
-  weight = 4
+  weight = 40
+
+
+[[Languages.en.menu.main]]
+  name = "Skills/Hobbies"
+  url = "#skills"
+  weight = 50
+
+[[Languages.ja.menu.main]]
+  name = "スキル・趣味"
+  url = "#skills"
+  weight = 50
+
 
 #[[menu.main]]
 #  name = "Publications"
@@ -348,12 +353,12 @@ enableGitInfo = false
 [[Languages.en.menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 60
 
 [[Languages.ja.menu.main]]
   name = "連絡先"
   url = "#contact"
-  weight = 6
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

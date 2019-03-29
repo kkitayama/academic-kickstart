@@ -11,7 +11,7 @@ title = "受賞歴"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 1001
+weight = 30
 
 +++
 
