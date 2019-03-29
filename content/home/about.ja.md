@@ -17,22 +17,22 @@ weight = 10
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "2019年4月<pre>  </pre>大学院入学"
+  course = "2019年4月 大学院入学"
   institution = "東北大学大学院情報科学研究科"
   year = ""
 
 [[education.courses]]
-  course = "2019年3月<pre>  </pre>大学卒業 (1年早期卒業)"
+  course = "2019年3月 大学卒業 (1年早期卒業)"
   institution = "東北大学工学部電気情報物理工学科"
   year = ""
 
 [[education.courses]]
-  course = "2016年4月<pre>  </pre>大学入学"
+  course = "2016年4月 大学入学"
   institution = "東北大学工学部電気情報物理工学科"
   year = ""
 
 [[education.courses]]
-  course = "2015年3月<pre>  </pre>高校卒業"
+  course = "2015年3月 高校卒業"
   institution = "青森県立弘前高等学校"
   year = ""
 
