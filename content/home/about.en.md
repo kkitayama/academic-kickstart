@@ -25,5 +25,5 @@ weight = 10
 
 # Biography
 
-Kotaro Kitayama is a Master's student at [Tohoku University](https://www.tohoku.ac.jp/).  
+Kotaro Kitayama is a Master's student at [Tohoku University](https://www.tohoku.ac.jp/en/).  
 He is a member of Natural Language Processing Laboratory([Inui-Suzuki Lab](https://www.nlp.ecei.tohoku.ac.jp/)).
