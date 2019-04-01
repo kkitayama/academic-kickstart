@@ -57,7 +57,7 @@ enableGitInfo = false
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ {name = "Graduate School of Information Sciences, Tohoku University", url = "https://www.is.tohoku.ac.jp/en/"},
-                    {name = "Major in System Information Sciences", url = "https://www.is.tohoku.ac.jp/en/laboratory/list_dept/#specialty2" },
+                    {name = "System Information Sciences", url = "https://www.is.tohoku.ac.jp/en/laboratory/list_dept/#specialty2" },
                     {name = "Natural Language Processing Laboratory", url = "https://www.nlp.ecei.tohoku.ac.jp/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
