@@ -326,6 +326,17 @@ enableGitInfo = false
 
 
 [[Languages.en.menu.main]]
+  name = "Teaching Assistant"
+  url = "#teaching"
+  weight = 45
+
+[[Languages.ja.menu.main]]
+  name = "TA"
+  url = "#teaching"
+  weight = 45
+
+
+[[Languages.en.menu.main]]
   name = "Skills/Hobbies"
   url = "#skills"
   weight = 50
