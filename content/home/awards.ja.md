@@ -15,5 +15,5 @@ weight = 30
 
 +++
 
-- 優秀ポスター賞
+- [優秀ポスター賞](https://www.nlp.ecei.tohoku.ac.jp/news-release/1220/)
   - 言語処理学会第25回年次大会 (NLP2019)
