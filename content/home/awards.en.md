@@ -15,5 +15,5 @@ weight = 30
 
 +++
 
-- Outstanding Poster Award
+- [Outstanding Poster Award](https://www.nlp.ecei.tohoku.ac.jp/news-release/1220/)
   - 言語処理学会第25回年次大会 (NLP2019)
