@@ -15,7 +15,7 @@ weight = 45
 
 +++
 
-- [Programming Exercises A](http://ecei-tohoku.github.io/ppa/)
+- [Programming Practice A](http://ecei-tohoku.github.io/ppa/)
   - Apr. 2019 ~ Jul. 2019
 - Orientation Camp for Newcomers
   - Apr. 2018, Apr. 2019
