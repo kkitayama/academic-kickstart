@@ -18,6 +18,6 @@ weight = 40
 - [Megagon Labs Japan](http://www.megagon.ai/) (旧: _Recruit Institute of Technology_)
   - 2019年2月 ~ 2019年3月
 - [ジョイズ株式会社](https://www.joyz.co.jp/)
-  - 2018年6月 ~ 現在
+  - 2018年6月 ~ 2019年5月
 - [株式会社フィックスターズ](https://www.fixstars.com/)
   - 2018年2月 ~ 2018年3月
