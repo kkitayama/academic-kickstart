@@ -18,6 +18,6 @@ weight = 40
 - [Megagon Labs Japan](http://www.megagon.ai/) (formerly _Recruit Institute of Technology_)
   - Feb. 2019 ~ Mar. 2019
 - [Joyz, Inc.](https://www.joyz.co.jp/)
-  - Jun. 2018 ~ Now
+  - Jun. 2018 ~ May 2019
 - [Fixstars Corporation](https://www.fixstars.com/en/)
   - Feb. 2018 ~ Mar. 2018
