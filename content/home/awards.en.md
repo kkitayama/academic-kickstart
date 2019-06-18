@@ -15,5 +15,8 @@ weight = 30
 
 +++
 
+- Student Encouragement Award
+  - [IPSJ-TOHOKU](http://www.topic.ad.jp/ipsj-tohoku/doku.php), 2019
+
 - [Excellent Poster Award](https://www.nlp.ecei.tohoku.ac.jp/news-release/1220/)
-  - 言語処理学会第25回年次大会 (NLP2019)
+  - [NLP2019](https://www.anlp.jp/nlp2019/)
