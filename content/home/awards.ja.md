@@ -15,7 +15,7 @@ weight = 30
 
 +++
 
-- 学生奨励賞
+- [学生奨励賞](https://www.nlp.ecei.tohoku.ac.jp/news-release/2336/)
   - 情報処理学会東北支部平成30年度
 - [優秀ポスター賞](https://www.nlp.ecei.tohoku.ac.jp/news-release/1220/)
   - 言語処理学会第25回年次大会 (NLP2019)
