@@ -15,6 +15,8 @@ weight = 40
 
 +++
 
+- [NTTコミュニケーション科学基礎研究所](http://www.kecl.ntt.co.jp/)
+  - 2018年8月 ~ 2019年9月
 - [Megagon Labs Japan](http://www.megagon.ai/) (旧: _Recruit Institute of Technology_)
   - 2019年2月 ~ 2019年3月
 - [ジョイズ株式会社](https://www.joyz.co.jp/)
