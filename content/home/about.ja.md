@@ -40,5 +40,5 @@ weight = 10
 
 # プロフィール
 
-[東北大学大学院情報科学研究科](https://www.is.tohoku.ac.jp/)の博士前期課程1年生です．  
+[東北大学大学院情報科学研究科](https://www.is.tohoku.ac.jp/)の博士前期課程2年生です．  
 [乾・鈴木研究室](https://www.nlp.ecei.tohoku.ac.jp/)にて自然言語処理の研究をしています．
