@@ -52,7 +52,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Kotaro Kitayama"
-  role = "1st Year of Master's Degree"
+  role = "2nd Year of Master's Degree"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -416,7 +416,7 @@ enableGitInfo = false
 [Languages.ja]
   title = "北山 晃太郎"
   name = "北山 晃太郎"
-  role = "博士前期課程1年"
+  role = "博士前期課程2年"
   organizations = [ {name = "東北大学 大学院情報科学研究科", url = "https://www.is.tohoku.ac.jp/"},
                     {name = "システム情報科学専攻", url = "https://www.is.tohoku.ac.jp/jp/laboratory/list_dept/#specialty2"},
                     {name = "乾・鈴木研究室", url = "https://www.nlp.ecei.tohoku.ac.jp/" } ]
