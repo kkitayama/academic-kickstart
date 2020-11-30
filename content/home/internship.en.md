@@ -15,6 +15,8 @@ weight = 40
 
 +++
 
+- [The University of Melbourne](https://cis.unimelb.edu.au/)
+  - Feb. 2020 ~ Mar. 2020
 - [NTT Communication Science Laboratories](http://www.kecl.ntt.co.jp/english/index.html)
   - Aug. 2019 ~ Sept. 2019
 - [Megagon Labs Japan](http://www.megagon.ai/) (formerly _Recruit Institute of Technology_)

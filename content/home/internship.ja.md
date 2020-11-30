@@ -15,6 +15,8 @@ weight = 40
 
 +++
 
+- [メルボルン大学](https://cis.unimelb.edu.au/)
+  - 2020年2月 ~ 2020年3月
 - [NTTコミュニケーション科学基礎研究所](http://www.kecl.ntt.co.jp/)
   - 2018年8月 ~ 2019年9月
 - [Megagon Labs Japan](http://www.megagon.ai/) (旧: _Recruit Institute of Technology_)
