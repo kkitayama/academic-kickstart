@@ -17,6 +17,11 @@ weight = 10
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "Master of Information Sciences"
+  institution = "Tohoku University"
+  year = 2021
+
+[[education.courses]]
   course = "Bachelor of Engineering"
   institution = "Tohoku University"
   year = 2019
@@ -25,5 +30,5 @@ weight = 10
 
 # Biography
 
-Kotaro Kitayama is a Master's student at [Tohoku University](https://www.tohoku.ac.jp/en/).  
+Kotaro Kitayama is a Doctoral student at [Tohoku University](https://www.tohoku.ac.jp/en/).  
 He is a member of Natural Language Processing Laboratory([Inui-Suzuki Lab](https://www.nlp.ecei.tohoku.ac.jp/)).
