@@ -20,7 +20,7 @@ weight = 10
   course = "2021年3月 大学院博士前期課程修了"
   institution = "東北大学大学院情報科学研究科"
   year = ""
-  
+
 [[education.courses]]
   course = "2019年4月 大学院入学"
   institution = "東北大学大学院情報科学研究科"
